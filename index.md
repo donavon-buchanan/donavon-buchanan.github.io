@@ -6,4 +6,4 @@ iOS App Store: [‎Routines - Daily Task Manager on the App Store](https://itun
 If you need to contact the developer about the app, email [contact@donavon.app](mailto:contact@donavon.app)
 
 ### Privacy Policy
-[Privacy Policy](https://donavon.app/privacy-policy.html)
+[Privacy Policy](https://donavon.app/privacy-policy)
