@@ -114,4 +114,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 * By email: [contact@donavon.app](mailto:contact@donavon.app)
-* By visiting this page on our website: https://donavon.app/privacy
+* By visiting this page on our website: [https://donavon.app/privacy-policy](https://donavon.app/privacy-policy)
