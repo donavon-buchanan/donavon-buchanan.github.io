@@ -1,7 +1,7 @@
 ---
 layout: page
 hide: true
-title: ""
+title: "My Apps"
 #permalink: /
 #feature-img: "assets/img/sample_feature_img_2.png"
 ---
