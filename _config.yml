@@ -15,7 +15,7 @@ theme_settings:
   header_text: >
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   © 2019 Donavon Buchanan
 
   # Icons
   rss: false
@@ -39,6 +39,7 @@ theme_settings:
   # twitter: "twitter"
   #wordpress:
   #youtube:
+  #mastodon: "@donavon@mastodon.technology"
 
   # Scripts
   #google_analytics: # Tracking ID, e.g. "UA-000000-01"
