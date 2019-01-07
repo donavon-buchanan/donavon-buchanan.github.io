@@ -1,5 +1,10 @@
-# Privacy Policy
-
+---
+layout: page
+#hide: true
+title: Privacy Policy
+permalink: /privacy-policy/
+#feature-img: "assets/img/sample_feature_img_2.png"
+---
 Effective date: November 08, 2018
 
 Donavon Buchanan (“us”, “we”, or “our”) operates the https://donavon.app website and the Routines - Daily Task Manager mobile application (the “Service”).
