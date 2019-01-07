@@ -23,7 +23,7 @@ github_username:  donavoncade
 
 # Build settings
 markdown: kramdown
-theme: compass
+# theme: compass
 plugins:
   - jekyll-feed
 
