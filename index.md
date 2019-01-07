@@ -2,8 +2,8 @@
 layout: page
 hide: true
 title: My Apps
-permalink: /
-#eature-img: "assets/img/sample_feature_img_2.png"
+#permalink: /
+#feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
 ## Routines - Daily Task Manager
