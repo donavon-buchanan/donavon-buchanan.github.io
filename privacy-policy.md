@@ -5,7 +5,13 @@ title: Privacy Policy
 permalink: /privacy-policy/
 #feature-img: "assets/img/sample_feature_img_2.png"
 ---
-Effective date: November 08, 2018
+
+#### In plain english:
+I'm not actually interested in collecting your data. There may be some data automatically collected through the platforms I use, such as the crash reports from Apple if you have opted-in to sharing that. If you send me an email, I'm obviously going to have a record of your email address and possibly your name. However, regardless of the data I may or may not obtain and how personally identifiable it may be, I will NEVER sell or otherwise share that information for some sort of material gain.
+
+---
+
+Effective date: January 7, 2019
 
 Donavon Buchanan (“us”, “we”, or “our”) operates the https://donavon.app website and the Routines - Daily Task Manager mobile application (the “Service”).
 
