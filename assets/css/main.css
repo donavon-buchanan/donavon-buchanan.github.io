@@ -368,7 +368,7 @@ html{
 @media (prefers-color-scheme: dark) {
 	/* Overrides for Dark Mode. */
 	html {
-		background: black;
+		background: #141e28;
 	}
 }
 ::selection{
