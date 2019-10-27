@@ -368,7 +368,7 @@ html{
 @media (prefers-color-scheme: dark) {
 	/* Overrides for Dark Mode. */
 	html {
-		background: #0c141c;
+		background: #070d12;
 	}
 }
 ::selection{
@@ -641,7 +641,7 @@ header h1{
 @media (prefers-color-scheme: dark) {
 	/* Overrides for Dark Mode. */
 	.site-header {
-		background: #1b1d22;
+		background: #08090a;
 	}
 }
 .site-header a{
