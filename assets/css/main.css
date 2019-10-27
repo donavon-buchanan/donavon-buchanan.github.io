@@ -638,8 +638,20 @@ header h1{
 	float:left;
 	width:100%
 }
+@media (prefers-color-scheme: dark) {
+	/* Overrides for Dark Mode. */
+	.site-header {
+		background: black;
+	}
+}
 .site-header a{
 	color:#383838
+}
+@media (prefers-color-scheme: dark) {
+	/* Overrides for Dark Mode. */
+	.site-header a{
+		color: white;
+	}
 }
 .site-header .avatar{
 	height:2em;
